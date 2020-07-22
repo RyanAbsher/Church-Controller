@@ -17,7 +17,7 @@ This will also allow me to rapidly iterate through designs of there are any mist
 
 ## Software
 The controller, just like the status signs, is programmed using the Arduino IDE. The status signs publish their Hostname and IP using mDNS. When first powered on, the controller
-will search the local network for any such signs in connected. It will perform a connection test with each sign and store the connected devices for future use. If no signs are located, the controller
+will search the local network for any such signs. It will perform a connection test with each sign and store the connected devices for future use. If no signs are located, the controller
 will use it's LEDs to indicate an error status.
 
 ## Case
