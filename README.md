@@ -2,7 +2,7 @@
 Controller for Church Status Signs
 
 ## Introduction
-After I finished the status signs for my church, the only way I had to control them was using POST links from a document on my phone.
+After I finished the [status signs](https://github.com/RyanAbsher/Church-Sign/) for my church, the only way I had to control them was using POST links from a document on my phone.
 If I was not attending on a given day, then no one else could use them.
 I decided to make a hand-held control, similar to a television remote control, that was simple enough for anyone to pick up and use.
 
