@@ -581,7 +581,7 @@ F 3 "" H 10300 1300 50  0001 C CNN
 	1    10300 1300
 	1    0    0    -1  
 $EndComp
-Text Label 4750 3500 2    50   ~ 0
+Text Label 6400 3400 0    50   ~ 0
 LED_BATT
 Wire Wire Line
 	4750 3500 5000 3500
@@ -645,7 +645,6 @@ NoConn ~ 5000 3400
 NoConn ~ 5000 3600
 NoConn ~ 5000 3700
 NoConn ~ 5000 3800
-NoConn ~ 6200 3400
 $Comp
 L power:GND #PWR0122
 U 1 1 5F199860
@@ -730,4 +729,6 @@ Wire Wire Line
 	900  4850 900  4900
 Wire Wire Line
 	900  4900 1550 4900
+Wire Wire Line
+	6200 3400 6400 3400
 $EndSCHEMATC
